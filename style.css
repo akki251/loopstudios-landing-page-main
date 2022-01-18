@@ -169,6 +169,12 @@ nav {
   align-self: center;
   font-size: 1.4rem;
   cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+.gallery-btn:hover {
+  background-color: black;
+  color: white;
 }
 
 .gallery-heading {
