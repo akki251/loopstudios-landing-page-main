@@ -634,6 +634,12 @@ nav {
     height: auto;
   }
 
+  .close-icon
+  {
+    width: 4.4rem;
+    height: 4.4rem;
+  }
+
   .gallery-heading {
     margin-bottom: 470%;
   }
